@@ -51,6 +51,7 @@ function createCard(data) {
 
     img.src = data.authorPhoto;
     authorName.textContent = 'By ' + data.authorName;
+    headLine.textContent = data.headline;
 
     return card;
 }

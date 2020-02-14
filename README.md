@@ -30,7 +30,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
-The HTML page - stands for Document Object Model.
+A representation of the HTML page. Stands for Document Object Model.
 
 2. What is an event?
 
@@ -46,7 +46,7 @@ We would want to convert a NodeList if we are wanting to use .map or .reduce.
 
 5. What is a component?
 
-An HTML template that can be reused.
+A function that is created with JavaScript
 
 ### Git Set up
 
