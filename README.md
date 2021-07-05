@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+A representation of the HTML page. Stands for Document Object Model.
+
 2. What is an event?
+
+An event is whenever something happens within the HTML/webpage, events are fired whenever a specified action is taken.
 
 3. What is an event listener?
 
+A function that listens for events.
+
 4. Why would we convert a NodeList into an Array?
 
+We would want to convert a NodeList if we are wanting to use .map or .reduce.
+
 5. What is a component?
+
+A function that is created with JavaScript
 
 ### Git Set up
 
